@@ -1775,7 +1775,7 @@ meta.foundation-mq-topbar {
     right: 0;
     top: 0; }
     .top-bar .toggle-topbar a {
-      color: #FFFFFF;
+      color: #4D4A4A;
       display: block;
       font-size: 0.8125rem;
       font-weight: bold;
@@ -1788,7 +1788,7 @@ meta.foundation-mq-topbar {
       margin-top: -16px;
       top: 50%; }
       .top-bar .toggle-topbar.menu-icon a {
-        color: #FFFFFF;
+        color: #4D4A4A;
         height: 34px;
         line-height: 33px;
         padding: 0 2.5rem 0 0.9375rem;
@@ -1801,7 +1801,7 @@ meta.foundation-mq-topbar {
           margin-top: -8px;
           top: 50%;
           right: 0.9375rem;
-          box-shadow: 0 0 0 1px #FFFFFF, 0 7px 0 1px #FFFFFF, 0 14px 0 1px #FFFFFF;
+          box-shadow: 0 0 0 1px #4D4A4A, 0 7px 0 1px #4D4A4A, 0 14px 0 1px #4D4A4A;
           width: 16px; }
         .top-bar .toggle-topbar.menu-icon a span:hover:after {
           box-shadow: 0 0 0 1px "", 0 7px 0 1px "", 0 14px 0 1px ""; }
