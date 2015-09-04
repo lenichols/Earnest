@@ -9,6 +9,35 @@
 .secone {
     margin: 4% 0 0 0;
 }
+
+#logobar {
+  background: url(../e_x_ga2.png) no-repeat;
+  display: block;
+  height: 50px;
+  z-index: 999;
+  padding-top: 10%;
+  margin: auto auto;
+  width: 340px;
+}
+
+section#bannerSec {
+  padding-top: 7%;
+  min-height: 500px;
+  background: url(../img/555841.png) center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block
+}
+h1.captionTitle {
+  color: white;
+  text-align: center;
+}
+h4.secondCapTitle {
+  color: #1bb580;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 @media only screen and (min-width: 40.0625em)
 .top-bar-section li:not(.has-form) a:not(.button) {
     background: #FFF !important;
@@ -16,6 +45,8 @@
     padding: 0 0.9375rem;
     color: #8A8A8A !important;
 }
+
+
 h5 {
     color: #1BB580;
 }
