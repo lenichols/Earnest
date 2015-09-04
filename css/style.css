@@ -10,6 +10,17 @@
     margin: 4% 0 0 0;
 }
 
+.sec3, .tophead {
+    color: white;
+    font-weight: bold;
+}
+
+.sec3 p {
+    font-family: Arial, sans-serif;
+    font-size: .88rem;
+    color: #F0EDED;
+}
+
 #logobar {
   background: url(../e_x_ga2.png) no-repeat;
   display: block;
@@ -72,6 +83,7 @@ h1 {
 }
 
 .sec3 {
+    padding-top: 2%;
     background: #1bb580; /* Old browsers */
     background: -moz-linear-gradient(top,  #1bb580 0%, #7bb29f 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1bb580), color-stop(100%,#7bb29f)); /* Chrome,Safari4+ */
